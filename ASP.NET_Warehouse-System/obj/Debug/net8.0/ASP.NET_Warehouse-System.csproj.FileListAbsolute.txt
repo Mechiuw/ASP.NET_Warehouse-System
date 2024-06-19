@@ -58,3 +58,4 @@ C:\Users\Toshiba\Documents\Upskilling\fujitsu test\ASP.NET_Warehouse-System\obj\
 C:\Users\Toshiba\Documents\Upskilling\fujitsu test\ASP.NET_Warehouse-System\obj\Debug\net8.0\ASP.NET_Warehouse-System.pdb
 C:\Users\Toshiba\Documents\Upskilling\fujitsu test\ASP.NET_Warehouse-System\obj\Debug\net8.0\ASP.NET_Warehouse-System.genruntimeconfig.cache
 C:\Users\Toshiba\Documents\Upskilling\fujitsu test\ASP.NET_Warehouse-System\obj\Debug\net8.0\ref\ASP.NET_Warehouse-System.dll
+C:\Users\Toshiba\Documents\Upskilling\fujitsu test\ASP.NET_Warehouse-System\obj\Debug\net8.0\ASP.NET_Warehouse-System.sourcelink.json
